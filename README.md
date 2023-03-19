@@ -8,3 +8,4 @@
 * started with express (folder - startWithExpress) <br/>
 * Rest apis <br/>
 * MVC architecture
+* How to debug code with node js debugger in vs code.
