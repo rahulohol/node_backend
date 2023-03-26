@@ -9,3 +9,4 @@
 * Rest apis <br/>
 * MVC architecture
 * How to debug code with node js debugger in vs code.
+* Dynamic html file with ejs
