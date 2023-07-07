@@ -1,6 +1,6 @@
 # node_backend
  ## Topics -
-* Basic file structure and file's use cases. <br/>
+* Basic file structure and file use cases. <br/>
 * Basic server with node.<br/>
 * Commandline input. <br/>
 * Display filesystem ( creating files in another folder with fs ) <br/>
